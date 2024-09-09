@@ -9,16 +9,17 @@ When the select line (sel) is 0, the output (y) is equal to input a.
 When the select line (sel) is 1, the output (y) is equal to input b.
 
 ## Truth Table
-| A | B | Sel | Y |
-|---|---|-----|---|
-| 0 | 0 |  0  | 0 |
-| 0 | 1 |  0  | 0 |
-| 1 | 0 |  0  | 1 |
-| 1 | 1 |  0  | 1 |
-| 0 | 0 |  1  | 0 |
-| 0 | 1 |  1  | 1 |
-| 1 | 0 |  1  | 0 |
-| 1 | 1 |  1  | 1 |
+|Sel|A[3:0]|B[3:0]|Y[3:0]|
+|---|------|------|------|
+| 0 | 0000 | 0000 | 0000 |
+| 0 | 0000 | 1111 | 0000 |
+| 1 | 0000 | 1111 | 1111 |
+| 0 | 1010 | 0101 | 1010 |
+| 1 | 1010 | 0101 | 0101 |
+| 0 | 1111 | 0000 | 1111 |
+| 1 | 1111 | 0000 | 0000 |
+| 0 | 1100 | 0011 | 1100 |
+| 1 | 1100 | 0011 | 0011 |
 
 ## Applications
 **2:1 Multiplexers are widely used in various digital systems and applications, such as:**
