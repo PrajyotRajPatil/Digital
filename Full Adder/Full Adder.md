@@ -1,4 +1,4 @@
-# Full Adder
+## Full Adder
 # Introduction
 The Full Adder is used to add three 1 bit data i.e. to add 3 Binary bits and gives output as Sum and Carry.
 It serves as a building block for more complex digital circuits.
