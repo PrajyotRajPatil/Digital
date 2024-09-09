@@ -15,11 +15,19 @@ It serves as a building block for more complex digital circuits.
 ## Applications
 **Half Adders can be combined with other logic gates to create a variety of digital circuits, including:**
 *Full Adder*
+
 *Ripple Carry Adder*
+
 *Carry Lookahead Adder*
+
 *Digital Counters*
+
 *Multiplexers*
+
 *De-multiplexers*
+
 *Decoders*
+
 *Encoders*
+
 *Comparators*
