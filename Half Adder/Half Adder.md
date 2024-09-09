@@ -6,15 +6,11 @@ It serves as a building block for more complex digital circuits.
 
 ## Truth Table
 | A | B | Sum | Carry |
-|   |   |     |       |
+|---|---|-----|-------|
 | 0 | 0 |  0  |   0   |
-|   |   |     |       |
 | 0 | 1 |  1  |   0   |
-|   |   |     |       |
 | 1 | 0 |  1  |   0   |
-|   |   |     |       |
 | 1 | 1 |  0  |   1   |
-|   |   |     |       |
 
 **Half Adders can be combined with other logic gates to create a variety of digital circuits, including:**
 *Full Adder,
