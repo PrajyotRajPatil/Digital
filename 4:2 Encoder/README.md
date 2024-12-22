@@ -30,5 +30,6 @@ Keyboard Encoding: Determining which key is pressed in keyboards.
 ![Sim](https://github.com/user-attachments/assets/57e9e81d-cdce-49a9-b275-a67ecaac31d5)
 
 ## Synthesis
-![Syn1](https://github.com/user-attachments/assets/34fb9b69-ef64-447b-9e4f-089686d60495)
-![Syn2](https://github.com/user-attachments/assets/57bc462f-1dc8-490e-85d8-66032b0fa1ea)
+![Syn1](https://github.com/user-attachments/assets/1d8c6081-fc99-4172-b67d-ed25718d8922)
+![Syn2](https://github.com/user-attachments/assets/ec5995e2-b8ca-411e-a9fa-e1accb6e5609)
+![Syn3](https://github.com/user-attachments/assets/2fec88bc-52c1-49cb-ace3-ac7072546b41)
