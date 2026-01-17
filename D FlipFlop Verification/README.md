@@ -1,7 +1,7 @@
-Simulation Waveform
+# Simulation Waveform
 <img width="1825" height="128" alt="Screenshot 2026-01-17 180049" src="https://github.com/user-attachments/assets/6850a1d2-ba22-4937-b4f6-8a3a981cb69a" />
 
-Simulation Log
+# Simulation Log
 
 ## WARNING: Simulation object /dff_vtb/env was not traceable in the design for the following reason:
 ## Vivado Simulator does not support tracing of System Verilog Dynamic Type object.
