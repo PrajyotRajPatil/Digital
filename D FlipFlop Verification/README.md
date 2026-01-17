@@ -3,10 +3,10 @@
 
 # Simulation Log
 
-WARNING: Simulation object /dff_vtb/env was not traceable in the design for the following reason:
-Vivado Simulator does not support tracing of System Verilog Dynamic Type object.
-INFO: [Wavedata 42-43] There are no traceable objects to add.
-## "# run 1000ns"
+## WARNING: Simulation object /dff_vtb/env was not traceable in the design for the following reason:
+## Vivado Simulator does not support tracing of System Verilog Dynamic Type object.
+## INFO: [Wavedata 42-43] There are no traceable objects to add.
+## # run 1000ns
 ## [DRV]: RESET DONE
 ## [GEN]: Din:1 Dout:0
 ## [DRV]: Din:1 Dout:0
