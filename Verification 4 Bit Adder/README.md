@@ -4,6 +4,7 @@
 
 # Simulation Log
 <img width="1617" height="858" alt="Screenshot 2026-01-28 232002" src="https://github.com/user-attachments/assets/5afd8f34-dadf-4c17-9475-f43fbaef0d20" />
+
 #### WARNING: Simulation object /tb_adder_4bit/env was not traceable in the design for the following reason:
 #### Vivado Simulator does not support tracing of System Verilog Dynamic Type object.
 #### INFO: [Wavedata 42-43] There are no traceable objects to add.
